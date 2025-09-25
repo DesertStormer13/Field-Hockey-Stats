@@ -1,0 +1,5 @@
+{
+  "name": "Field Hockey Match Tracker",
+  "description": "A comprehensive app to track field hockey matches in real-time, record scores, goals, and penalties, and generate an official FIH-style scoresheet.",
+  "requestFramePermissions": []
+}
